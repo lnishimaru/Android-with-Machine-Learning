@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MLTest</string>
+    <string name="tfe_tc_app_name" translatable="false">TFL Text Classification</string>
+    <string name="tfe_tc_edit_text_hint" translatable="false">Please enter your movie review.</string>
+    <string name="tfe_tc_button_ok" translatable="false">Predict</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Categories</string>
+    <string name="menu_slideshow">ML</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="categories" />
+</resources>
