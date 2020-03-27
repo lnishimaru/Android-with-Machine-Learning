@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/MyPAM/MyPAM" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MyPAM/MyPAM/tree/RU05_Account" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Lillis\Desktop" />
